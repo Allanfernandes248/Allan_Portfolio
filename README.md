@@ -23,7 +23,7 @@
 
 
 
-# [Project 3]: Danny's Pizza Runner Case Study - SQL](https://github.com/Allanfernandes248/SQL_CASE_STUDY)
+# [Project 3: Danny's Pizza Runner Case Study - SQL](https://github.com/Allanfernandes248/SQL_CASE_STUDY)
 
 
 Danny has created a company called **Pizza Runner** and now needs assistance to clean his data and apply some basic calculations so he can optimize the Pizza runners' operations.  

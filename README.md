@@ -19,3 +19,16 @@
 - Determined which Walmart locations are performing best and worst using Python. 
 - Identified the key differences betwwen the top and bottom performing stores. 
 - Devised Strategies to boost sales of low perfroming stores. 
+
+
+
+
+# [Project 3]: Danny's Pizza Runner Case Study - SQL](https://github.com/Allanfernandes248/SQL_CASE_STUDY)
+
+
+Danny has created a company called **Pizza Runner** and now needs assistance to clean his data and apply some basic calculations so he can optimize the Pizza runners' operations.  
+
+- Performed Data cleaning which included handling null and missing values, converting data types, and performing string manipulation. 
+- Generated Insights regarding customer count, successful deliveries, and analysis of the orders made by the customers.  
+- Interpreted the average order size, and ranked delivery persons based on their performance. 
+- Used various SQL properties like aggregate functions, joins, window functions, group by, etc.  

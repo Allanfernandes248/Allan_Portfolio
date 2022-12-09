@@ -18,7 +18,7 @@
 - Imported Data from Kaggle. 
 - Determined which Walmart locations are performing best and worst using Python. 
 - Identified the key differences between the top and bottom performing stores. 
-- Devised Strategies to boost sales of low perfroming stores. 
+- Devised Strategies to boost sales of low performing stores. 
 
 
 

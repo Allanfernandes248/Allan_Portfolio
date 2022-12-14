@@ -1,11 +1,11 @@
 # Allan_Portfolio
 
-## GetTaxi-Insights From Failed Orders](https://github.com/Allanfernandes248/Stratascratch_insights_from_failed_orders)
+## [GetTaxi-Insights From Failed Orders](https://github.com/Allanfernandes248/Stratascratch_insights_from_failed_orders)
 - Extracted useful insights from a 10,000 datapoint using BigQuery Client API.Insights generated are as follows:
-- Build up distribution of orders according to reasons for failure: cancellations before and after driver assignment, and reasons for order rejection. Analyse the resulting plot. Which category has the highest number of orders?
-- Plot the distribution of failed orders by hours. Is there a trend that certain hours have an abnormally high proportion of one category or another? What hours are the biggest fails? How can this be explained?
-- Plot the average time to cancellation with and without driver, by the hour. If there are any outliers in the data, it would be better to remove them. Can we draw any conclusions from this plot?
-Plot the distribution of average ETA by hours. How can this plot be explained?
+1. Build up distribution of orders according to reasons for failure: cancellations before and after driver assignment, and reasons for order rejection. Analyse the resulting plot. Which category has the highest number of orders?
+2. Plot the distribution of failed orders by hours. Is there a trend that certain hours have an abnormally high proportion of one category or another? What hours are the biggest fails? How can this be explained?
+3. Plot the average time to cancellation with and without driver, by the hour. If there are any outliers in the data, it would be better to remove them. Can we draw any conclusions from this plot?
+4. Plot the distribution of average ETA by hours. How can this plot be explained?
 
 ## [Walmart Store Analysis](https://github.com/Allanfernandes248/Walmart-Store-Analysis)
 

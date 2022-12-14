@@ -1,7 +1,16 @@
 # Allan_Portfolio
 
-# [Project 1: BigBasket Analysis](https://github.com/Allanfernandes248/BigBasketAnalysis)
 
+
+## [Walmart Store Analysis](https://github.com/Allanfernandes248/Walmart-Store-Analysis)
+
+- Imported Data from Kaggle. 
+- Determined which Walmart locations are performing best and worst using Python. 
+- Identified the key differences between the top and bottom performing stores. 
+- Devised Strategies to boost sales of low performing stores. 
+
+
+## [BigBasket Analysis](https://github.com/Allanfernandes248/BigBasketAnalysis)
 
 - Imported Data from Kaggle.
 - Used Python to analyse and clean the data using Pandas library.
@@ -10,21 +19,7 @@
 - Created an interactive dashboard and summarised the analysis into 7 KPIs.
 
 
-
-
-# [Project 2: Walmart Store Analysis](https://github.com/Allanfernandes248/Walmart-Store-Analysis)
-
-
-- Imported Data from Kaggle. 
-- Determined which Walmart locations are performing best and worst using Python. 
-- Identified the key differences between the top and bottom performing stores. 
-- Devised Strategies to boost sales of low performing stores. 
-
-
-
-
-# [Project 3: Danny's Pizza Runner Case Study - SQL](https://github.com/Allanfernandes248/SQL_CASE_STUDY)
-
+## [Danny's Pizza Runner Case Study - SQL](https://github.com/Allanfernandes248/SQL_CASE_STUDY)
 
 Danny has created a company called **Pizza Runner** and now needs assistance to clean his data and apply some basic calculations so he can optimize the Pizza runners' operations.  
 
